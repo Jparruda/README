@@ -14,3 +14,6 @@
 
 📊 **Estatísticas do GitHub**  
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jparruda&show_icons=true&theme=dracula) 
+
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jparruda&layout=compact)
