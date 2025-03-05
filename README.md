@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jparruda&show_icons=true&count_private=true&hide_border=true&title_color=D0DEE7&icon_color=D0DEE7&text_color=D0DEE7&bg_color=0E1011" alt="João Arruda github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jparruda&layout=compact&hide_border=true&title_color=D0DEE7&text_color=D0DEE7&bg_color=0E1011" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jparruda&layout=compact&hide_border=true&title_color=D0DEE7&text_color=D0DEE7&bg_color=0E1011" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jparruda&bg_color=0E1011&color=D0DEE7&line=D0DEE7&point=A1CFD3&area_color=A1CFD3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
